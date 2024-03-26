@@ -1,0 +1,27 @@
+LINEAR REGRESSION
+- polinomial regression
+- why is not usable the linear equation
+
+-----------------------------------------------------------------------------------------------
+
+LOGISTIC CLASSIFICATION
+- multiclass classification
+
+-----------------------------------------------------------------------------------------------
+
+CLUSTERING:
+- Cost function k means
+- PAM
+- Information criterion approach
+- HDBSCAN
+
+-----------------------------------------------------------------------------------------------
+
+PCA
+- the V matrix
+
+-----------------------------------------------------------------------------------------------
+
+Neural Network
+
+- XOR
